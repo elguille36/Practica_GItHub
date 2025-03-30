@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hola soy un programador , me gusta programar 
-=======
-Hola soy un programador que esta pariendo con GIT
-
->>>>>>> 3799e4b090f70c4b546fa1908f4218a20de72478
+Hola soy un programador , me gusta aprender com a toti
